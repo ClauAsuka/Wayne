@@ -2,17 +2,17 @@ package worldF;
 
 public class Sumar {
 	
-	float x,i;
+	float x,y;
 	
-	public Sumar(float x, float i)
+	public Sumar(float x, float y)
 	{
 		super();
 		this.x=x;
-		this.i=i;
+		this.y=y;
 	}
 public void suma()
 {
-	System.out.println(x+i);
+	System.out.println(x+y);
 
 }
 }
