@@ -16,6 +16,10 @@ public class HiEarth {
 			System.out.println(" ");
 			System.out.println("Hola jefe");
 			System.out.println("Hallo Kopf");
+<<<<<<< Upstream, based on origin/Goth1
 			System.out.println("Hola Boss");
+=======
+			System.out.println("salut chef");
+>>>>>>> a734a64 finish
 	}
 }
