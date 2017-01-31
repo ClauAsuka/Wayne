@@ -17,11 +17,6 @@ public class HiEarth {
 			System.out.println("Hola jefe");
 			System.out.println("Hola Boss");
 			System.out.println("Hallo Kopf");
-<<<<<<< HEAD
-			System.out.println("Hola Boss");
-     		System.out.println("salut chef");
-=======
 			System.out.println("salut chef");
->>>>>>> refs/remotes/origin/mastery4.0
 	}
 }
