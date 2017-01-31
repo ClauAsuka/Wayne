@@ -15,6 +15,9 @@ public class HiEarth {
 			System.out.println("Hi secretary");
 			System.out.println(" ");
 			System.out.println("Hola jefe");
+<<<<<<< HEAD
+			System.out.println("Hola Boss");
+			System.out.println("Hallo Kopf");2
 			System.out.println("salut chef");
 	}
 }
