@@ -12,16 +12,10 @@ public class HiEarth {
 			System.out.println("Hola secretaria");
 			System.out.println("salut secrétaire");
 			System.out.println("Hallo Sekretärin");
-<<<<<<< Upstream, based on origin/Goth1
 			System.out.println("Hi secretary");		
 			System.out.println(" ");
 			System.out.println("Hola jefe");
 			System.out.println("Hallo Kopf");
-=======
-			System.out.println("Hi secretary");
-			System.out.println(" ");
-			System.out.println("Hola jefe");
 			System.out.println("Hola Boss");
->>>>>>> 67995c9 boss
 	}
 }
