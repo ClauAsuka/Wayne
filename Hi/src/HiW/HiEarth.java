@@ -19,7 +19,13 @@ public class HiEarth {
 			System.out.println("Hallo Kopf");
 			System.out.println("salut chef");
 			System.out.println(" ");
-			System.out.println("Salut Ami");
-			System.out.println("sunshine");
+			System.out.println("Hallo Ingenieur");
+			System.out.println("Salut Ingénieur");
+			System.out.println("Hola Ingeniero");
+			System.out.println("Hi Engineer");
+			System.out.println(" ");
+			System.out.println("Hola Amigo");
+			System.out.println("Hi Friend");
+			System.out.println("Hallo Freund");
 	}
 }
