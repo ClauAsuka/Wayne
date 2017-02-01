@@ -23,5 +23,7 @@ public class HiEarth {
 			System.out.println("Hi Engineer");
 			System.out.println("Hallo Ingenieur");
 			System.out.println("Salut Ingénieur");
+			System.out.println("Salut Ami");
+			System.out.println("sunshine");
 	}
 }
