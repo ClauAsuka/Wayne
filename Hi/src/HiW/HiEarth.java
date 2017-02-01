@@ -23,5 +23,9 @@ public class HiEarth {
 			System.out.println("Hi Engineer");
 			System.out.println("Hallo Ingenieur");
 			System.out.println("Salut Ingénieur");
+			System.out.println(" ");
+			System.out.println("Hola Amigo");
+			System.out.println("Hi Friend");
+			System.out.println("Hallo Freund");
 	}
 }
